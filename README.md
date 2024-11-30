@@ -20,6 +20,6 @@ Running the Application: Runs the Flask application in debug mode.
 how to run 
 1.just download the file into your local system.
 2.open with code editors like vscode(https://code.visualstudio.com/) or pycharm(https://www.jetbrains.com/pycharm/)
-3.navigate to the location where file is present and run using the command : python filename(here in this case file name is battery_diagnoiser)
+3.navigate to the location where file is present and run using the command : python filename.py(here in this case file name is battery_diagnoiser)
 4.next you will find ip address like http://127.0.0.1:5000 this just copy paste into the web browser you would see the hosted webpage from ypur local system.
 5.check any two checkboxes and presss diagnose you should see a diagnoisis result.
